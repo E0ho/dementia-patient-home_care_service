@@ -1,0 +1,4 @@
+용량문제로 push X
+
+1. fast_res50_256x192.pth
+2. fast_res101_320x256.pth

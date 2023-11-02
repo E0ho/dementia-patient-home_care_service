@@ -1,0 +1,3 @@
+용량 문제로 push X
+
+1. tsstg-model.pth
